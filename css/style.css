@@ -22,7 +22,7 @@ html, body{
 }
 /*--baner--*/
 .banner {
-    background: url(../images/banner.jpg)no-repeat 0px 0px;
+    background: url(../images/banner2.png)no-repeat 0px 0px;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -575,15 +575,308 @@ ul.dropdown-menu {
     margin: 0;
     line-height: 2em;
 }
-.welcome-right {
+.welcome-retinto {
     width: 50%;
     float: left;
-    background: url(../images/2.jpg) no-repeat 0px 0px;
+    background: url(../images/IMG_20161210_124902.jpg) no-repeat 0px 0px;
     background-size: cover;
     min-height: 436px;
 }
+
+.welcome-retinto2 {
+    width: 50%;
+    float: left;
+    background: url(../images/IMG_20161124_090644.jpg) no-repeat 0px 0px;
+    background-size: cover;
+    min-height: 436px;
+}
+.welcome-retinto3 {
+    width: 50%;
+    float: left;
+    background: url(../images/IMG_20161211_113951.jpg) no-repeat 0px 0px;
+    background-size: cover;
+    min-height: 436px;
+}
+.welcome-forestal1 {
+    width: 50%;
+    float: left;
+    background: url(../images/IMG-20161211-WA0009.jpg) no-repeat 0px 0px;
+    background-size: cover;
+    min-height: 436px;
+}
+.welcome-forestal2 {
+    width: 50%;
+    float: left;
+    background: url(../images/IMG-20161212-WA0013.jpg) no-repeat 0px 0px;
+    background-size: cover;
+    min-height: 436px;
+}
+
+.welcome-forestal4 {
+    width: 50%;
+    float: left;
+    background: url(../images/_20161220_200807.JPG) no-repeat 0px 0px;
+    background-size: cover;
+    min-height: 436px;
+}
+
+.welcome-agricola1 {
+    width: 50%;
+    float: left;
+    background: url(../images/IMG_20160706_112448.jpg) no-repeat 0px 0px;
+    background-size: cover;
+    min-height: 436px;
+}
+.welcome-agricola2 {
+    width: 50%;
+    float: left;
+    background: url(../images/IMG-20160217-WA0013.jpg) no-repeat 0px 0px;
+    background-size: cover;
+    min-height: 436px;
+}
+
+.welcome-agricola3 {
+    width: 50%;
+    float: left;
+    background: url(../images/IMG_0363.JPG) no-repeat 0px 0px;
+    background-size: cover;
+    min-height: 436px;
+}
+
+.welcome-agricola4 {
+    width: 50%;
+    float: left;
+    background: url(../images/IMG_20160612_084438.jpg) no-repeat 0px 0px;
+    background-size: cover;
+    min-height: 436px;
+}
+
+.welcome-agricola7 {
+    width: 50%;
+    float: left;
+    background: url(../images/IMG-20161212-WA0011.jpg) no-repeat 0px 0px;
+    background-size: cover;
+    min-height: 436px;
+}
+
+.welcome-agricola8 {
+    width: 50%;
+    float: left;
+    background: url(../images/IMG-20160219-WA0008.jpg) no-repeat 0px 0px;
+    background-size: cover;
+    min-height: 436px;
+}
+
+.welcome-agricola9 {
+    width: 50%;
+    float: left;
+    background: url(../images/IMG_20160504_174917.jpg) no-repeat 0px 0px;
+    background-size: cover;
+    min-height: 436px;
+}
+
+.welcome-agricola10 {
+    width: 50%;
+    float: left;
+    background: url(../images/IMG-20161220-WA0014.jpg) no-repeat 0px 0px;
+    background-size: cover;
+    min-height: 436px;
+}
+
+.welcome-charoles1 {
+    width: 50%;
+    float: left;
+    background: url(../images/IMG_20160812_124343.jpg) no-repeat 0px 0px;
+    background-size: cover;
+    min-height: 436px;
+}
+
+.welcome-charoles2 {
+    width: 50%;
+    float: left;
+    background: url(../images/IMG_20161006_120942.jpg) no-repeat 0px 0px;
+    background-size: cover;
+    min-height: 436px;
+}
+
+.welcome-charoles3{
+    width: 50%;
+    float: left;
+    background: url(../images/IMG_20161214_094557.jpg) no-repeat 0px 0px;
+    background-size: cover;
+    min-height: 436px;
+}
+
+.welcome-limousin1 {
+    width: 50%;
+    float: left;
+    background: url(../images/IMG_20161220_191104.jpg) no-repeat 0px 0px;
+    background-size: cover;
+    min-height: 436px;
+}
+
+.welcome-limousin2 {
+    width: 50%;
+    float: left;
+    background: url(../images/IMG_20161108_104705.jpg) no-repeat 0px 0px;
+    background-size: cover;
+    min-height: 436px;
+}
+.welcome-limousin3 {
+    width: 50%;
+    float: left;
+    background: url(../images/4.jpg) no-repeat 0px 0px;
+    background-size: cover;
+    min-height: 436px;
+}
+
+.welcome-cruzado2 {
+    width: 50%;
+    float: left;
+    background: url(../images/IMG_20160609_075726.jpg) no-repeat 0px 0px;
+    background-size: cover;
+    min-height: 436px;
+}
+
+.welcome-cruzado3 {
+    width: 50%;
+    float: left;
+    background: url(../images/IMG_20161220_194025.jpg) no-repeat 0px 0px;
+    background-size: cover;
+    min-height: 436px;
+}
+
+.welcome-cruzado4 {
+    width: 50%;
+    float: left;
+    background: url(../images/IMG_20160609_075726.jpg) no-repeat 0px 0px;
+    background-size: cover;
+    min-height: 436px;
+}
+
+.welcome-cruzado1 {
+    width: 50%;
+    float: left;
+    background: url(../images/IMG_20160609_075726.jpg) no-repeat 0px 0px;
+    background-size: cover;
+    min-height: 436px;
+}
+.welcome-cinegetico1 {
+    width: 50%;
+    float: left;
+    background: url(../images/IMG_0371.JPG) no-repeat 0px 0px;
+    background-size: cover;
+    min-height: 436px;
+}
+
+.welcome-cinegetico2 {
+    width: 50%;
+    float: left;
+    background: url(../images/IMG_20160619_190307.jpg) no-repeat 0px 0px;
+    background-size: cover;
+    min-height: 436px;
+}
+
+.welcome-cinegetico3 {
+    width: 50%;
+    float: left;
+    background: url(../images/IMG-20161211-WA0017.jpg) no-repeat 0px 0px;
+    background-size: cover;
+    min-height: 436px;
+}
+
+.welcome-portada1 {
+    width: 50%;
+    float: left;
+    background: url(../images/IMG_20160504_174917.jpg) no-repeat 0px 0px;
+    background-size: cover;
+    min-height: 436px;
+}
+
+.welcome-portada3 {
+    width: 50%;
+    float: left;
+    background: url(../images/IMG-20161212-WA0011.jpg) no-repeat 0px 0px;
+    background-size: cover;
+    min-height: 436px;
+}
+
+.welcome-minero1{
+    width: 50%;
+    float: left;
+    background: url(../images/IMG-20161214-WA0002.jpg) no-repeat 0px 0px;
+    background-size: cover;
+    min-height: 436px;
+}
+
+.welcome-right{
+    width: 50%;
+    float: left;
+    background: url(../images/IMG_0371.JPG) no-repeat 0px 0px;
+    background-size: cover;
+    min-height: 436px;
+}
+
+
+
 .offer{
 	border-top:none;
+}
+
+.offer-portada2{
+  background: url(../images/IMG-20161211-WA0010.jpg) no-repeat 0px 0px;
+  background-size: cover;
+  float: left;
+}
+
+.offer-limousin4{
+  background: url(../images/IMG_20161210_121243.jpg) no-repeat 0px 0px;
+  background-size: cover;
+  float: left;
+}
+
+.offer-cruzado5{
+  background: url(../images/IMG-20161220-WA0008.jpg) no-repeat 0px 0px;
+  background-size: cover;
+  float: left;
+}
+
+.offer-cruzado6{
+  background: url(../images/blogger-image--1153190133.jpg) no-repeat 0px 0px;
+  background-size: cover;
+  float: left;
+}
+
+.offer-forestal3{
+  background: url(../images/IMG-20161211-WA0010.jpg) no-repeat 0px 0px;
+  background-size: cover;
+  float: left;
+}
+
+.offer-agricola6{
+  background: url(../images/IMG_20160612_093031.jpg) no-repeat 0px 0px;
+  background-size: cover;
+  float: left;
+}
+
+.offer-agricola2{
+  background: url(../images/IMG-20160217-WA0013.jpg) no-repeat 0px 0px;
+  background-size: cover;
+  float: left;
+}
+
+.offer-agricola4{
+  background: url(../images/IMG_20160612_084438.jpg) no-repeat 0px 0px;
+  background-size: cover;
+  float: left;
+}
+
+.offer-minero2{
+  background: url(../images/IMG-20161214-WA0003.jpg) no-repeat 0px 0px;
+  background-size: cover;
+  float: left;
+}
+
 }
 .offer-right{
   background: url(../images/3.jpg) no-repeat 0px 0px;
@@ -666,6 +959,12 @@ ul.dropdown-menu {
     font-size: .9em;
     margin: 0;
     line-height: 2em;
+}
+.new-portada3{
+  background: url(../images/IMG-20161212-WA0011.jpg) no-repeat 0px 0px;
+  background-size: cover;
+}
+
 }
 .new-right{
   background: url(../images/4.jpg) no-repeat 0px 0px;
