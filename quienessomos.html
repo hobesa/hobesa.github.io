@@ -7,10 +7,10 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <!DOCTYPE html>
 <html>
 <head>
-<title>Hobesa C.B.s</title>
+<title>Hobesa C.B.</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<meta name="keywords" content="Edible Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template,
+<meta name="keywords" content="Edible Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template, 
 Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyErricsson, Motorola web design" />
 <script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
 <!-- bootstrap-css -->
@@ -23,16 +23,16 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 <link href='//fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic,800,800italic' rel='stylesheet' type='text/css'>
 <!-- //fonts -->
 <!-- js -->
-<script src="js/jquery-1.11.1.min.js"></script>
+<script src="js/jquery-1.11.1.min.js"></script> 
 <script src="js/modernizr.custom.js"></script>
 <script src="js/bootstrap.js"></script>
-<!-- //js -->
+<!-- //js -->	
 <!-- start-smoth-scrolling-->
 <script type="text/javascript">
 		jQuery(document).ready(function($) {
-			$(".scroll").click(function(event){
+			$(".scroll").click(function(event){		
 				event.preventDefault();
-
+		
 		$('html,body').animate({scrollTop:$(this.hash).offset().top},1000);
 			});
 		});
@@ -53,7 +53,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						<li><a href="#" class="facebook dribbble"> </a></li>
 					</ul>
 				</div>
-				
+			
 				<div class="clearfix"> </div>
 			</div>
 		</div>
@@ -78,15 +78,14 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 					<ul class="nav navbar-nav navbar-center">
 						<li><a href="index.html">Principal</a></li>
-						<li><a href="quienessomos.html" >¿Quienes somos?</a></li>
+						<li><a href="quienessomos.html" class="active">¿Quienes somos?</a></li>
 						<li><a href="#" class="dropdown-toggle hvr-bounce-to-bottom" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Ganaderia Vacuno<span class="caret"></span></a>
 								<ul class="dropdown-menu">
 									<li><a class="hvr-bounce-to-bottom"  href="ganado.html">Introducción</a></li>
 									<li><a class="hvr-bounce-to-bottom"  href="retinto.html">Raza Retinta</a></li>
-									<li><a class="hvr-bounce-to-bottom" href="charolès.html">Raza Charolés</a></li>
+									<li><a class="hvr-bounce-to-bottom" href="charolès.html">Raza Charolès</a></li>
 									<li><a class="hvr-bounce-to-bottom" href="limousin.html">Raza Limousin</a></li>
-									
-								    <li><a class="hvr-bounce-to-bottom"  href="cruzado.html">Ganado Cruzado</a></li>
+	                                <li><a class="hvr-bounce-to-bottom"  href="cruzado.html">Ganado Cruzado</a></li>
 
 								</ul>
 						</li>
@@ -94,95 +93,57 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						<li><a href="cinegetica.html">Cinegético</a></li>
 						<li><a href="agricola.html">Agrícola</a></li>
 						<li><a href="minera.html">Minera</a></li>
-						<li><a href="contact.html" class="active">Contacto</a></li>
+						<li><a href="contact.html">Contacto</a></li>
 					</ul>
 					<div class="clearfix"> </div>
 				</div>
 			</div>	
 		</nav>		
 	</div>	
+	</div>	
 	<!-- script-for sticky-nav -->
 			<script>
 			$(document).ready(function() {
 				 var navoffeset=$(".top-nav").offset().top;
 				 $(window).scroll(function(){
-					var scrollpos=$(window).scrollTop();
+					var scrollpos=$(window).scrollTop(); 
 					if(scrollpos >=navoffeset){
 						$(".top-nav").addClass("fixed");
 					}else{
 						$(".top-nav").removeClass("fixed");
 					}
 				 });
-
+				  
 			});
 			</script>
 			<!-- /script-for sticky-nav -->
 	<!--navigation-->
-	<!-- contact -->
-	<div class="contact">
-		<div class="container">
-			<div class="contact-info">
-				<h2>Contacto</h2>
-			</div>
-			<div class="contact-infom">
-				<h3>Hobesa C.B.</h3>
-				<h4>C/Mayor nº2 Los Barrios (C.P:11370), Cádiz, Andalucía, España.</h4>
-
-
-				<h3>Personas de contacto.</h3>
-				<h4>Andrés Gómez Fernández: 606225309
-				<h4>Manuel Gómez Fernández: 655053355
-
-				<h3>Web Designer</h3> <h4><a href="https://twitter.com/Carlosgf98">Carlos</a></p>
-
-				<h2>Hobesa@telefonica.net
-			
-            </div>
-			<div class="contact-grids">
-				<div class="col-md-7 contact-para">
-					<h5>Contact Form</h5>
-					<form>
-						<div class="grid-contact">
-							<div class="col-md-6 contact-grid">
-								<p>First Name</p>
-								<input type="text" value="" onfocus="this.value='';" onblur="if (this.value == '') {this.value ='';}">
-								</div>
-							<div class="col-md-6 contact-grid">
-								<p>Last Name</p>
-								<input type="text" value="" onfocus="this.value='';" onblur="if (this.value == '') {this.value ='';}">
-								</div>
-							<div class="clearfix"> </div>
-						</div>
-						<div class="grid-contact">
-							<div class="col-md-6 contact-grid">
-							<p>Email</p>
-								<input type="text" value="" onfocus="this.value='';" onblur="if (this.value == '') {this.value ='';}">
-							</div>
-							<div class="col-md-6 contact-grid">
-							<p>Phone</p>
-								<input type="text" value="" onfocus="this.value='';" onblur="if (this.value == '') {this.value ='';}">
-								</div>
-							<div class="clearfix"> </div>
-						</div>
-							<p class="your-para">Message</p>
-							<textarea cols="77" rows="6" value=" " onfocus="this.value='';" onblur="if (this.value == '') {this.value = '';}"></textarea>
-								<div class="send">
-									<input type="submit" value="Send">
-								</div>
-					</form>
+	<!-- typography -->
+	<div class="typography">
+			<!-- container-wrap -->
+			<div class="container">
+				<div class="typography-info">
+					<h2 class="type">¿Quiénes somos?</h2>
 				</div>
-				<div class="col-md-5 contact-map">
-					<h5>Location</h5>
-					<div class="map">
-						<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d59247.84555941436!2d-74.00101359585908!3d40.691888370076846!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sin!4v1440747755360" allowfullscreen></iframe>
+				<div class="grid_3 grid_4">
+					
+					<div class="bs-example">
+						<h2 style="text-align: justify;">Hobesa, Comunidad de Bienes es una empresa familiar donde actualmente dos generaciones desarrollan la actividad principalmente agropecuaria en fincas propias situadas en la parte Occidental de Andalucía en concreto en Cádiz (Campo de Gibraltar y Comarca de la Janda) y en Huelva en el Parque Natural Sierra de Aracena y Picos de Aroche.
+</h2>
 					</div>
 				</div>
-				<div class="clearfix"> </div>
-			</div>
-		</div>
-	</div>
-	<!-- //contact -->
-	<!-- footer -->
+
+					<div class="grid_3 grid_4">
+					
+					<div class="bs-example">
+						<h2 style="text-align: justify;">
+Esta actividad se desarrolla siguiendo los principios heredados  de sus antepasados que trabajaron en el campo para vivir de él, pero con un respeto al medio que era su forma de vida y que ha llevado en la actualidad al reconocimiento de nuestra actividad como ecológica (más de doce años certificados por Organismo de Control Oficial); por las prácticas que llevamos a cabo en el manejo del ganado, la gestión de praderas, los métodos de siembra y las actividades silviculturales en los alcornoques, encinas, castaños, olivos y otros árboles y arbustos del Monte Mediterráneo que están en las dehesas de nuestra fincas. Todo esto en aras de dejar un campo a nuestros descendientes mejor que lo heredamos nosotros.</h2>
+					</div>
+				</div>
+				
+				
+				
+				
 	
 	<!-- //footer -->
 	<!-- copyright -->
