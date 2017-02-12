@@ -590,13 +590,7 @@ ul.dropdown-menu {
     background-size: cover;
     min-height: 436px;
 }
-.welcome-retinto3 {
-    width: 50%;
-    float: left;
-    background: url(../images/IMG_20161211_113951.jpg) no-repeat 0px 0px;
-    background-size: cover;
-    min-height: 436px;
-}
+
 .welcome-forestal1 {
     width: 50%;
     float: left;
@@ -615,7 +609,7 @@ ul.dropdown-menu {
 .welcome-forestal4 {
     width: 50%;
     float: left;
-    background: url(../images/_20161220_200807.JPG) no-repeat 0px 0px;
+    background: url(../images/IMG_20161220_200807.JPG) no-repeat 0px 0px;
     background-size: cover;
     min-height: 436px;
 }
@@ -793,7 +787,7 @@ ul.dropdown-menu {
     min-height: 436px;
 }
 
-<<<<<<< HEAD
+
 .welcome-cinegetico4 {
     width: 50%;
     float: left;
@@ -802,8 +796,7 @@ ul.dropdown-menu {
     min-height: 436px;
 }
 
-=======
->>>>>>> b2185202de7ec629e30f33574822df1a67a9fbf3
+
 .welcome-portada1 {
     width: 50%;
     float: left;
@@ -831,7 +824,7 @@ ul.dropdown-menu {
 .welcome-minero3{
     width: 50%;
     float: left;
-    background: url(../images/2017-01-08\ 14-23-11.jpg) no-repeat 0px 0px;
+    background: url(../images/IMG_cantera2.jpg) no-repeat 0px 0px;
     background-size: cover;
     min-height: 436px;
 }
@@ -880,6 +873,12 @@ ul.dropdown-menu {
   float: left;
 }
 
+.offer-retinto3{
+  background: url(../images/IMG_20161211_113951.jpg) no-repeat 0px 0px;
+  background-size: cover;
+  float: left;
+}
+
 .offer-agricola6{
   background: url(../images/IMG_20160612_093031.jpg) no-repeat 0px 0px;
   background-size: cover;
@@ -905,7 +904,7 @@ ul.dropdown-menu {
 }
 
 .offer-minero4{
-  background: url(../images/IMG-20170121-WA0007.jpg) no-repeat 0px 0px;
+  background: url(../images/IMG_cantera1.jpg) no-repeat 0px 0px;
   background-size: cover;
   float: left;
 }
