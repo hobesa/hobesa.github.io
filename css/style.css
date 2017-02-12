@@ -718,14 +718,22 @@ ul.dropdown-menu {
 .welcome-limousin2 {
     width: 50%;
     float: left;
+<<<<<<< HEAD
     background: url(../images/IMG-20170208-WA0012.jpg) no-repeat 0px 0px;
+=======
+    background: url(../images/IMG_20161108_104705.jpg) no-repeat 0px 0px;
+>>>>>>> b2185202de7ec629e30f33574822df1a67a9fbf3
     background-size: cover;
     min-height: 436px;
 }
 .welcome-limousin3 {
     width: 50%;
     float: left;
+<<<<<<< HEAD
     background: url(../images/IMG-20170210-WA0024.jpg) no-repeat 0px 0px;
+=======
+    background: url(../images/4.jpg) no-repeat 0px 0px;
+>>>>>>> b2185202de7ec629e30f33574822df1a67a9fbf3
     background-size: cover;
     min-height: 436px;
 }
@@ -785,6 +793,7 @@ ul.dropdown-menu {
     min-height: 436px;
 }
 
+<<<<<<< HEAD
 .welcome-cinegetico4 {
     width: 50%;
     float: left;
@@ -793,6 +802,8 @@ ul.dropdown-menu {
     min-height: 436px;
 }
 
+=======
+>>>>>>> b2185202de7ec629e30f33574822df1a67a9fbf3
 .welcome-portada1 {
     width: 50%;
     float: left;
