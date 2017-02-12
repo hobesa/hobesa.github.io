@@ -828,6 +828,14 @@ ul.dropdown-menu {
     min-height: 436px;
 }
 
+.welcome-minero3{
+    width: 50%;
+    float: left;
+    background: url(../images/2017-01-08\ 14-23-11.jpg) no-repeat 0px 0px;
+    background-size: cover;
+    min-height: 436px;
+}
+
 .welcome-right{
     width: 50%;
     float: left;
@@ -892,6 +900,18 @@ ul.dropdown-menu {
 
 .offer-minero2{
   background: url(../images/IMG-20161214-WA0003.jpg) no-repeat 0px 0px;
+  background-size: cover;
+  float: left;
+}
+
+.offer-minero4{
+  background: url(../images/IMG-20170121-WA0007.jpg) no-repeat 0px 0px;
+  background-size: cover;
+  float: left;
+}
+
+.offer-contacto1{
+  background: url(../images/IMG_cantera.jpg) no-repeat 0px 0px;
   background-size: cover;
   float: left;
 }
