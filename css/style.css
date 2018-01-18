@@ -638,13 +638,7 @@ ul.dropdown-menu {
     background-size: cover;
     min-height: 436px;
 }
-.welcome-cambios8 {
-    width: 50%;
-    float: left;
-    background: url(../images/IMG_20161210_124902.jpg) no-repeat 0px 0px;
-    background-size: cover;
-    min-height: 436px;
-}
+
 .welcome-cambios9 {
     width: 50%;
     float: left;
@@ -750,14 +744,6 @@ ul.dropdown-menu {
     width: 50%;
     float: left;
     background: url(../images/IMG-20160219-WA0008.jpg) no-repeat 0px 0px;
-    background-size: cover;
-    min-height: 436px;
-}
-
-.welcome-agricola9 {
-    width: 50%;
-    float: left;
-    background: url(../images/IMG_20160504_174917.jpg) no-repeat 0px 0px;
     background-size: cover;
     min-height: 436px;
 }
@@ -964,6 +950,12 @@ ul.dropdown-menu {
 
 .offer-agricola6{
   background: url(../images/IMG_20170710_114921.jpg) no-repeat 0px 0px;
+  background-size: cover;
+  float: left;
+}
+
+.offer-agricola9{
+  background: url(../images/IMG_20160504_174917.jpg) no-repeat 0px 0px;
   background-size: cover;
   float: left;
 }
